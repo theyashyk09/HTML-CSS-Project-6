@@ -17,12 +17,12 @@ https://user-images.githubusercontent.com/109405477/182066002-1348febc-8eac-45d8
 
 ## Deployed Link
 
-[Project 6](https://projecttwoo.netlify.app/)
+[Project 6](https://projectsix.netlify.app/)
 
 
 ## Things i have learned working on this project
 
-1. I learned a about flexbox which made it bit easier.
+1. I learned about flexbox which made it bit easier.
 3. I think i have improved my googling since i used google alot whenever i was stuck in this project.
 4. While doing any project i should take one thing at a time.
 5. I shouldn't hurry while doing projects.
