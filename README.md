@@ -4,7 +4,13 @@
 This one is a plant home page which is created using HTML & CSS. This website is currently not responsive but in coming weeks it will be responsive.
 ## Video
 
-[Video](Project%206.mp4)
+
+<video width="600" height="400" controls>
+  <source src="./Project%206.mp4" type="video/mp4">
+</video>
+
+
+
 ## Deployed Link
 
 [Project 6](https://projecttwoo.netlify.app/)
